@@ -1,4 +1,4 @@
-# challengue_telecomx_2
+# challenge_telecomx_2
 introducción, preparación de datos, EDA, modelado, hallazgos, implicaciones de negocio y recomendaciones
 
 
